@@ -63,6 +63,6 @@ Each visualization provides a unique perspective on the data, allowing users to 
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/faiq-syed-7494b5197/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/faiq-syed-7494b5197/) To see more exciting Projects!
 
 
